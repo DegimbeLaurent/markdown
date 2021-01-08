@@ -4,8 +4,6 @@
    _Les portes de l'avenir sont ouvertes à ceux qui savent les pousser_
 
 
-![photo de profil linkedin](https://media-exp1.licdn.com/dms/image/C4E03AQEalU7s7xjziA/profile-displayphoto-shrink_200_200/0/1610054503683?e=1615420800&v=beta&t=6evoxqC2CnWR0CMgnaGwJkWOFEJ9t_Av7ml80OXETXU)
-
 
 ## Ouvert d'esprit et ayant le goût de la connaissance, je suis déterminé à 	     sans cesse m'améliorer.
 

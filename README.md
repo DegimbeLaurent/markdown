@@ -29,5 +29,3 @@ Pinneapple on pizza     |    - [x] Yes - [ ] No
   * Histoire/conflit
 
 
-
-<< previous || HANNECART Loïc || next >>	

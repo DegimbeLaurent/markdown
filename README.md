@@ -9,13 +9,6 @@
 
 
 
-Birthday                |      16/03/2021 
-------------------------|-----------------
-Gender                  |      Male       
-Favorite color          |      Red    
-Favorite food           |      Sushi  
-Pinneapple on pizza     |    - [x] Yes - [ ] No
-
 
 
 

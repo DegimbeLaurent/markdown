@@ -19,13 +19,4 @@ Pinneapple on pizza     |    - [x] Yes - [ ] No
 
 
 
-## Hobbies
-
-  * Jeux vidéo
-    * Str
-    * Gestion
-    * Rpg
-  * Film
-  * Histoire/conflit
-
 
